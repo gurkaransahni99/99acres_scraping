@@ -1,0 +1,11 @@
+log.jsonl
+tempkeys/
+**node_modules**
+config
+build
+chaindb
+artifacts/
+cache/
+coverage/
+.vscode/
+credentials.js

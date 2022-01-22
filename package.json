@@ -1,0 +1,24 @@
+{
+  "name": "99acres_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurkaransahni99/99acres_scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurkaransahni99/99acres_scraping/issues"
+  },
+  "homepage": "https://github.com/gurkaransahni99/99acres_scraping#readme",
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "puppeteer": "^13.1.1",
+    "puppeteer-select": "^1.0.3"
+  }
+}
